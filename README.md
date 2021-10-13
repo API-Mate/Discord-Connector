@@ -1,1 +1,1 @@
-# Dicord-Connector
+# Discord-Connector
